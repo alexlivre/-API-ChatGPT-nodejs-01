@@ -71,8 +71,10 @@ npm i openai@3.2.1 dotenv@16.1.4
 
 Se seu projeto usa módulos, você pode usar a `import` sintaxe:
 ```javascript
-import { Configuration, OpenAIApi } from  'openai';
-require('dotenv').config();
+import { Configuration, OpenAIApi } from  "openai";
+import  dotenv  from  "dotenv";
+
+dotenv.config();
 ```
 Caso contrário, você pode usar o estilo antigo com `require`:
 ```javascript
