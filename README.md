@@ -72,7 +72,8 @@ No arquivo `.env`, deve conter a sua API Key da OpenAI GPT, ela deve estar no se
 # Exemplo: OPENAI_API_KEY=sk-ymKpNA87PGQ1TqZdDYGST3Blbk8noGBRQQdaHJbI2QU98Taz
 OPENAI_API_KEY=SUA API KEY AQUI
 ```
-Utilize o comando ```node app.js```
+Utilize o comando 
+```node app.js```
 
 ## Antes de escrever qualquer código
 
