@@ -1,6 +1,13 @@
 ## Como usar a API ChatGPT no Node.js/JavaScript usando a biblioteca Node.js OpenAI
 
 Da primeira vez que tentei usar a biblioteca Node.js OpenAI, encontrei a documentação carente em termos de fazer um script simples funcionar. Além disso, a documentação mostrou um exemplo com a API de Conclusões que o GPT 3.5 e o GPT 4 usam. Portanto, este é um tutorial rápido.
+
+Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em seu computador.
+
+```javascript
+npm i openai@3.2.1 dotenv@16.1.4
+```
+ O código do arquivo `app.js`.
 ```javascript
 // Importa as classes Configuration e OpenAIApi da biblioteca openai
 const { Configuration, OpenAIApi } = require("openai");
@@ -49,6 +56,23 @@ async function run() {
 // Chama a função assíncrona run() para iniciar a conversa com o modelo conversacional GPT-3 da OpenAI
 run(); 
 ``` 
+O seu arquivo `package.json` deve estar assim:
+```json
+{
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "openai": "^3.2.1"
+}
+}
+```
+No arquivo `.env`, deve conter a sua API Key da OpenAI GPT, ela deve estar no seguinte formato:
+
+```php
+# API KEY OPENAI GPT
+# Exemplo: OPENAI_API_KEY=sk-ymKpNA87PGQ1TqZdDYGST3Blbk8noGBRQQdaHJbI2QU98Taz
+OPENAI_API_KEY=SUA API KEY AQUI
+```
+Utilize o comando ```node app.js```
 
 ## Antes de escrever qualquer código
 
