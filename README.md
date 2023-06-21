@@ -1,4 +1,4 @@
-⚠️ # *Aviso Importante*
+# ⚠️ *Aviso Importante*
 
 Este é um aviso para informar que o conteúdo apresentado a seguir é uma adaptação feita por um usuário chamado "Alex Rei do Mundo" para o servidor do Discord "InteligenciaVersatil: O Lar dos Aprendizes Inovadores! 🚀🌟". A adaptação foi realizada utilizando a ferramenta "GPT-3.5-Turbo" da OpenAI.
 
