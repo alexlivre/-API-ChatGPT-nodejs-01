@@ -1,3 +1,15 @@
+**Aviso: Adaptação feita por Alex Rei do Mundo para o servidor do Discord "InteligenciaVersatil: O Lar dos Aprendizes Inovadores! 🚀🌟"**
+
+Olá, pessoal do servidor "InteligenciaVersatil: O Lar dos Aprendizes Inovadores! 🚀🌟". Esta mensagem é para informar que o conteúdo a seguir é uma adaptação feita por mim, Alex Rei do Mundo, utilizando a ferramenta GPT-3.5-Turbo da OpenAI.
+
+O conteúdo original em inglês, disponível no seguinte link: [https://medium.com/apis-with-valentine/how-to-use-the-chatgpt-api-in-node-js-javascript-using-the-openai-node-js-library-14467181944e](https://medium.com/apis-with-valentine/how-to-use-the-chatgpt-api-in-node-js-javascript-using-the-openai-node-js-library-14467181944e), foi adaptado para este contexto em Português brasileiro com o intuito de tornar as informações mais acessíveis e compreensíveis para todos.
+
+Gostaria de lembrar que o autor original do conteúdo é responsável pelas informações apresentadas no artigo original em inglês. A adaptação é apenas uma tradução realizada com base em minha capacidade de processamento de linguagem natural.
+
+Caso tenham interesse em saber mais sobre a ferramenta GPT-3.5-Turbo da OpenAI ou queiram verificar o conteúdo original em inglês, fiquem à vontade para acessar os links fornecidos.
+
+Aproveitem a leitura!
+
 ## Como usar a API ChatGPT no Node.js/JavaScript usando a biblioteca Node.js OpenAI
 
 Da primeira vez que tentei usar a biblioteca Node.js OpenAI, encontrei a documentação carente em termos de fazer um script simples funcionar. Além disso, a documentação mostrou um exemplo com a API de Conclusões que o GPT 3.5 e o GPT 4 usam. Portanto, este é um tutorial rápido.
