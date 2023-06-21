@@ -1,4 +1,4 @@
-**Aviso: Adaptação feita por Alex Rei do Mundo para o servidor do Discord "InteligenciaVersatil: O Lar dos Aprendizes Inovadores! 🚀🌟"**
+# *Aviso: Adaptação feita por Alex Rei do Mundo para o servidor do Discord "InteligenciaVersatil: O Lar dos Aprendizes Inovadores! 🚀🌟"*
 
 Olá, pessoal do servidor "InteligenciaVersatil: O Lar dos Aprendizes Inovadores! 🚀🌟". Esta mensagem é para informar que o conteúdo a seguir é uma adaptação feita por mim, Alex Rei do Mundo, utilizando a ferramenta GPT-3.5-Turbo da OpenAI.
 
