@@ -1,6 +1,6 @@
 # ⚠️ *Aviso Importante*
 
-Este é um aviso para informar que o conteúdo apresentado a seguir é uma adaptação feita por um usuário chamado "Alex Rei do Mundo" para o servidor do Discord "InteligenciaVersatil: O Lar dos Aprendizes Inovadores! 🚀🌟". A adaptação foi realizada utilizando a ferramenta "GPT-3.5-Turbo" da OpenAI.
+Este é um aviso para informar que o conteúdo apresentado a seguir é uma adaptação feita por um usuário "Alex Rei do Mundo" para o servidor do Discord "InteligenciaVersatil: O Lar dos Aprendizes Inovadores! 🚀🌟". A adaptação foi realizada utilizando a ferramenta "GPT-3.5-Turbo" da OpenAI.
 
 O conteúdo original em inglês pode ser encontrado no seguinte link: [https://medium.com/apis-with-valentine/how-to-use-the-chatgpt-api-in-node-js-javascript-using-the-openai-node-js-library-14467181944e](https://medium.com/apis-with-valentine/how-to-use-the-chatgpt-api-in-node-js-javascript-using-the-openai-node-js-library-14467181944e).
 
