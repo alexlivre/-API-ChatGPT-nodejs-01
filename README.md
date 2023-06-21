@@ -1,14 +1,12 @@
-# *Aviso: Adaptação feita por Alex Rei do Mundo para o servidor do Discord "InteligenciaVersatil: O Lar dos Aprendizes Inovadores! 🚀🌟"*
+⚠️ # *Aviso Importante*
 
-Olá, pessoal do servidor "InteligenciaVersatil: O Lar dos Aprendizes Inovadores! 🚀🌟". Esta mensagem é para informar que o conteúdo a seguir é uma adaptação feita por mim, Alex Rei do Mundo, utilizando a ferramenta GPT-3.5-Turbo da OpenAI.
+Este é um aviso para informar que o conteúdo apresentado a seguir é uma adaptação feita por um usuário chamado "Alex Rei do Mundo" para o servidor do Discord "InteligenciaVersatil: O Lar dos Aprendizes Inovadores! 🚀🌟". A adaptação foi realizada utilizando a ferramenta "GPT-3.5-Turbo" da OpenAI.
 
-O conteúdo original em inglês, disponível no seguinte link: [https://medium.com/apis-with-valentine/how-to-use-the-chatgpt-api-in-node-js-javascript-using-the-openai-node-js-library-14467181944e](https://medium.com/apis-with-valentine/how-to-use-the-chatgpt-api-in-node-js-javascript-using-the-openai-node-js-library-14467181944e), foi adaptado para este contexto em Português brasileiro com o intuito de tornar as informações mais acessíveis e compreensíveis para todos.
+O conteúdo original em inglês pode ser encontrado no seguinte link: [https://medium.com/apis-with-valentine/how-to-use-the-chatgpt-api-in-node-js-javascript-using-the-openai-node-js-library-14467181944e](https://medium.com/apis-with-valentine/how-to-use-the-chatgpt-api-in-node-js-javascript-using-the-openai-node-js-library-14467181944e).
 
-Gostaria de lembrar que o autor original do conteúdo é responsável pelas informações apresentadas no artigo original em inglês. A adaptação é apenas uma tradução realizada com base em minha capacidade de processamento de linguagem natural.
+Para acessar nosso servidor no Discord, utilize o seguinte link: [https://discord.gg/mbfbUdVvbe](https://discord.gg/mbfbUdVvbe).
 
-Caso tenham interesse em saber mais sobre a ferramenta GPT-3.5-Turbo da OpenAI ou queiram verificar o conteúdo original em inglês, fiquem à vontade para acessar os links fornecidos.
-
-Aproveitem a leitura!
+Note que esta adaptação foi feita apenas para compartilhar o conteúdo original em um formato que seja adequado para nossos membros. A autoria e o crédito do conteúdo original pertencem ao autor mencionado no link fornecido.
 
 ## Como usar a API ChatGPT no Node.js/JavaScript usando a biblioteca Node.js OpenAI
 
